@@ -4,7 +4,7 @@ Donate link: http://xtthemes.com/donate/
 Tags: xtthemes, Favicon, WordPress, Plugin, Favicon Icon, Favicon Image, Favicon Code, Favicon Change, Favicon Manager, Short Icon, Addressbar Logo
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -78,13 +78,14 @@ Yes! On the plugins page you can find the dropdown menu to enable or disable the
 
 = How can I deactivate or uninstall the plugin? =
 Go to the plugins menu and deactivate the plugin from the installed plugins list.
-==Edited To Here - Delete This Line After==
+
 == Screenshots ==
-1. Favicon XT-Manager Screenshot 1
-2. Favicon XT-Manager Screenshot 2
+1. Settings area for adding plugin i.e., screenshot-1.png.
+2. Favicon in browser bar position i.e., screenshot-2.png.
 
 == Changelog ==
 = 1.0 =
+* Added Screenshots.
 * First version of the Favicon XT-Manager WordPress plugin released and available to download on 16 May 2015.
 
 == Read more and Support ==
